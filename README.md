@@ -7,7 +7,7 @@ completed with certification bagde
 ## Task 1 
 ### Business Understanding & Hypothesis Framing
 
-**Problem:
+**Problem:**
 
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 
@@ -21,7 +21,7 @@ Your AD wants an email with your thoughts on how the team should go about testin
 
 The client plans to use the predictive model on the 1st working day of every month to indicate to which customers the 20% discount should be offered.
 
-**Task:
+**Task:**
  
 Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate your thoughts and findings in an email to your AD, focusing on the data that you would need from the client and the analytical models you would use to test such a hypothesis.
 
@@ -38,7 +38,7 @@ The data that was sent over includes:
 * Historical pricing data: variable and fixed pricing data etc
 * Churn indicator: whether each customer has churned or not
 
-**Sub-Task 1:
+**Sub-Task 1:**
 
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for you to gain a holistic understanding of the dataset. 
 
@@ -69,11 +69,11 @@ If you’re eager to go the extra mile for the client, when you have a trained p
 
 Build your models and test them while keeping in mind you would need data to prove/disprove the hypotheses, as well as to test the effect of a 20% discount on customers at high propensity to churn.
 
-Sub-Task 1
+**Sub-Task 1:**
 
 This feature is “the difference between off-peak prices in December and January the preceding year”. 
 
-Sub-Task 2
+**Sub-Task 2:**
 
 Train a Random Forest classifier and to evaluate the results in an appropriate manner. We would also like you to document the advantages and disadvantages of using a Random Forest for this use case. 
 
