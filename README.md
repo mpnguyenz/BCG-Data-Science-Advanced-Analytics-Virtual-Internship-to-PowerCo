@@ -21,8 +21,7 @@ Your AD wants an email with your thoughts on how the team should go about testin
 
 The client plans to use the predictive model on the 1st working day of every month to indicate to which customers the 20% discount should be offered.
 
-
-Task:
+**Task:
  
 Formulate the hypothesis as a data science problem and lay out the major steps needed to test this hypothesis. Communicate your thoughts and findings in an email to your AD, focusing on the data that you would need from the client and the analytical models you would use to test such a hypothesis.
 
@@ -43,11 +42,11 @@ The data that was sent over includes:
 
 Perform some exploratory data analysis. Look into the data types, data statistics, specific parameters, and variable distributions. This first subtask is for you to gain a holistic understanding of the dataset. 
 
-Sub-Task 2:
+**Sub-Task 2:**
 
 Verify the hypothesis of price sensitivity being to some extent correlated with churn. It is up to you to define price sensitivity and calculate it.
 
-Sub-Task 3:
+**Sub-Task 3:**
 
 Prepare a half-page summary or slide of key findings and add some suggestions for data augmentation – which other sources of data should the client provide you with and which open source datasets might be useful
 
