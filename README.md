@@ -1,4 +1,4 @@
-# BCG Data Science Advanced Analytics Virtual Internship to PowerCo 
+# BCG Data Science Advanced Analytics Virtual Internship to PowerCo with Forage
 
    ![Data Science   Advanced Analytics VEP](https://user-images.githubusercontent.com/82594129/225690586-ef6095dc-a2e4-4835-8061-6707adf54c08.png)
 
